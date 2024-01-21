@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+    background-color: #000000;
+    background-image: linear-gradient(45deg, #cfe9db 0%, #4e504ddc 100%);
+    text-align: center;
+  
+  }
+
+ .icon-container {
+    font-size: 32px;
+    cursor: pointer;
+  }
+  
+  .btn{
+    width: 300px;
+  }
